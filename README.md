@@ -1,6 +1,5 @@
-# Here i Create a Notes Website
+# Here i Create a Cv Website
 ```
 Welcome to My Github Profile.
-as I create a  Notes Website from scratch using HTML, CSS, and JavaScript.
-```
-![image](https://github.com/ParagUnhale1998/Notes-App/blob/main/Preview.png)
+as I create a Cv Website from scratch using HTML, CSS.
+![image](https://github.com/ParagUnhale1998/Resume-cv-Website/blob/main/preview.png)
